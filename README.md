@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Yogesh Negi
 
+💻 **Full-Stack Web Developer | MERN Stack Enthusiast**
+
 🎯 **Turning imagination into reality through code**
 
 ---
@@ -7,21 +9,19 @@
 ## 👨‍💻 About Me
 
 - 🚀 Passionate about **building and crafting creative ideas into real-world projects**
-- 🌱 Currently diving deep into the **MERN Stack** (MongoDB, Express, React, Node.js)
-- 🤝 Open to collaborate on **MERN Stack projects** or any exciting full-stack web development ideas
-- 📬 Reach me at **[Yogeshnegi97@gmail.com](mailto:Yogeshnegi97@gmail.com)**
+- 🌱 Currently learning and building projects using the **MERN Stack** (MongoDB, Express, React, Node.js)
+- 🤝 Open to collaborate on **MERN Stack** or any **Full-Stack Web Development** projects
+- 📫 Reach me at **[Yogeshnegi97@gmail.com](mailto:Yogeshnegi97@gmail.com)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
+- **Frontend**: React.js, HTML5, CSS3, JavaScript (ES6+), **Tailwind CSS**
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB, **Firebase**, PostgreSQL
-- **Programming Languages**: JavaScript, Python
+- **Database**: MongoDB, **Firebase**, **PostgreSQL**
+- **Programming Languages**: JavaScript, **Python**
 - **Tools & Platforms**: Git, GitHub, VS Code, Postman
-
----
 
 ---
 
