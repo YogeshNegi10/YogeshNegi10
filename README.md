@@ -1,9 +1,46 @@
-- 👋 Hi, I’m @ YogeshNegi
-- 👀 I’m interested in ..Building and Crafting imagination into reality ! 
-- 🌱 I’m currently learning ...Mern Stack !
-- 💞️ I’m looking to collaborate on ...any Mern Stack Project
-- 📫 How to reach me ... email me at Yogeshnegi97@gmail.com
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Yogesh Negi
+
+🎯 **Turning imagination into reality through code**
+
+---
+
+## 👨‍💻 About Me
+
+- 🚀 Passionate about **building and crafting creative ideas into real-world projects**
+- 🌱 Currently diving deep into the **MERN Stack** (MongoDB, Express, React, Node.js)
+- 🤝 Open to collaborate on **MERN Stack projects** or any exciting full-stack web development ideas
+- 📬 Reach me at **[Yogeshnegi97@gmail.com](mailto:Yogeshnegi97@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, HTML5, CSS3, JavaScript (ES6+)
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Tools & Platforms**: Git, GitHub, VS Code, Postman
+
+---
+
+## 💡 Fun Fact
+
+⚡ I believe in **learning by building** — every project is a new adventure!
+
+---
+
+## 📈 GitHub Stats
+
+![Yogesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YogeshNegi&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+- [Portfolio](https://your-portfolio-link.com) *(if available)*
+
+---
+
 
 <!---
 YogeshNegi10/YogeshNegi10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
