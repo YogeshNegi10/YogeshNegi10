@@ -28,16 +28,10 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Yogesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YogeshNegi&show_icons=true&theme=radical)
-
----
-
 ## 🔗 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
-- [Portfolio](https://your-portfolio-link.com) *(if available)*
+- [Portfolio](https://my-portfolio-website-chi-tan.vercel.app/#home) 
 
 ---
 
