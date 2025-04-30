@@ -15,10 +15,13 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, HTML5, CSS3, JavaScript (ES6+)
+- **Frontend**: React.js, HTML5, CSS3, JavaScript (ES6+), **Tailwind CSS**
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Database**: MongoDB, **Firebase**
+- **Programming Languages**: JavaScript, **Python**
 - **Tools & Platforms**: Git, GitHub, VS Code, Postman
+
+---
 
 ---
 
