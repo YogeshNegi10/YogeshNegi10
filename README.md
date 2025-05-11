@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yogesh Negi
 
-💻 **Full-Stack Web Developer | MERN Stack Enthusiast**
+💻 **Self-taught full-stack developer | React, Node.js, MongoDB | Ex-athlete turned coder | Building real-world apps & growing fast**
 
 🎯 **Turning imagination into reality through code**
 
